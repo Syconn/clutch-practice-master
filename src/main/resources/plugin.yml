@@ -1,0 +1,6 @@
+name: Clutch
+version: ${project.version}
+main: plugin.syconn.clutch.Clutch
+api-version: 1.17
+authors: [ Syconn ]
+description: clutch practice mod
